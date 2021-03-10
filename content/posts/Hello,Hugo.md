@@ -13,3 +13,7 @@ toc=true
   ~~~
   hugo -d docs
   ~~~
+- 验证服务
+  ~~~
+  hugo server
+  ~~~

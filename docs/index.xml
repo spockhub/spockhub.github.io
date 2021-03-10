@@ -22,7 +22,7 @@
       <pubDate>Wed, 10 Mar 2021 21:44:49 +0900</pubDate>
       
       <guid>http://spockhub.github.io/posts/HelloHugo/</guid>
-      <description>发布新文章 hugo new posts/my-first-post.md 重新打包 hugo -d docs</description>
+      <description>发布新文章 hugo new posts/my-first-post.md 重新打包 hugo -d docs 验证服务 hugo server</description>
     </item>
     
     <item>
