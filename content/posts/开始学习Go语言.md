@@ -7,5 +7,3 @@ toc=true
 +++
 
  基础语法及数据类型
-
-![扫码关注](qrcode_for_weixin.jpg)
