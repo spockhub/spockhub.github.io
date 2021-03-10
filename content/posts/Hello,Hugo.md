@@ -1,7 +1,7 @@
 ---
 title: "Hello,Hugo"
 date: 2021-03-10T21:22:59+08:00
-draft: true
+draft: false
 ---
 
 - 发布新文章  
